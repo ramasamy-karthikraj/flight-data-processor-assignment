@@ -19,7 +19,7 @@ The Flight Data Processor is a Python-based system that manages flight data effi
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/ramasamy-karthikraj/flight-data-processor-assignment.git
+   git clone --branch master --single-branch https://github.com/ramasamy-karthikraj/flight-data-processor-assignment.git
    ```
 2. Navigate to the project directory:
    ```sh
